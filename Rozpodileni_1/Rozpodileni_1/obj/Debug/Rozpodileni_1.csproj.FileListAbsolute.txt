@@ -1,0 +1,33 @@
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe.config
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.pdb
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.AssemblyReference.cache
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.SuggestedBindingRedirects.cache
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Properties.Resources.resources
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.GenerateResource.cache
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.CoreCompileInputs.cache
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.exe
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.pdb
+D:\VisualSudioCodeProjects\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Form1.resources
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe.config
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.pdb
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.AssemblyReference.cache
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Form1.resources
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Properties.Resources.resources
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.GenerateResource.cache
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.CoreCompileInputs.cache
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.exe
+D:\ДЗ\КН 3 курс\2 семестр\Розподілені системи\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.pdb
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe.config
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.pdb
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.AssemblyReference.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Form1.resources
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Properties.Resources.resources
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.GenerateResource.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.exe
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.pdb
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\LABA1.Form1.resources

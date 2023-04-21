@@ -1,0 +1,10 @@
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe.config
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.exe
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\bin\Debug\Rozpodileni_1.pdb
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\LAB1.csproj.AssemblyReference.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.Properties.Resources.resources
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\LAB1.csproj.GenerateResource.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.exe
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\Rozpodileni_1.pdb
+C:\Users\Root\Desktop\Rozpodileni_1\Rozpodileni_1\obj\Debug\LAB1.Form1.resources
